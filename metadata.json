@@ -1,0 +1,6 @@
+{
+  "name": "Pitchcell",
+  "description": "An AI-powered startup opportunity engine that transforms messy thoughts and random ideas into structured startup opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
